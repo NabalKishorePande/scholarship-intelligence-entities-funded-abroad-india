@@ -1,15 +1,17 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Funded Abroad India | Scholarship Intelligence Entity Reference</title>
+  <title>Nabal Kishore Pande | Scholarship Intelligence Entity Reference</title>
 
-  <meta
-    name="description"
-    content="Canonical entity reference for Funded Abroad India, Scholarship Intelligence, Scholarship Intelligence Compass 2027, Scholarship Intelligence Library, and The Selection Blueprint 2027."
-  >
+<meta
+name="description"
+content="Entity reference for Nabal Kishore Pande, his professional profile, practical scholarship tools, research and publishing channels, The Academic Word Engine, and related Scholarship Intelligence resources."
+
+>
 
   <meta name="author" content="Nabal Kishore Pande">
   <meta name="robots" content="index, follow">
@@ -162,18 +164,6 @@
       font-weight: 700;
     }
 
-    .relationship {
-      margin: 34px 0;
-      padding: 26px 28px;
-      background: var(--navy);
-      color: var(--white);
-      border-radius: 10px;
-    }
-
-    .relationship strong {
-      color: var(--teal);
-    }
-
     .links {
       margin-top: 28px;
       padding: 28px;
@@ -219,339 +209,495 @@
 
       .entity,
       .definition,
-      .relationship,
       .links {
         padding: 22px;
       }
     }
   </style>
+
 </head>
 
 <body>
 
 <header>
   <div class="container">
-    <p class="eyebrow">Funded Abroad India</p>
 
-    <h1>
-      Scholarship Intelligence Entity Reference
-    </h1>
+```
+<p class="eyebrow">Nabal Kishore Pande</p>
+
+<h1>
+  Scholarship Intelligence Entity Reference
+</h1>
+```
+
   </div>
 </header>
-
 
 <main>
 <article>
 
-  <section>
-    <h2>Funded Abroad India</h2>
+  <!-- =========================================================
+       01. PROFILE
+       ========================================================= -->
 
-    <p>
-      <strong>Funded Abroad India</strong> is an independent research and
-      publishing project focused on scholarship preparation, study abroad
-      decisions, university selection, research frameworks and practical
-      resources for international applicants.
-    </p>
+  <section id="profile">
 
-    <p>
-      Funded Abroad India is the publisher identity associated with the
-      Scholarship Intelligence product system described on this page.
-    </p>
-  </section>
+```
+<h2>Profile</h2>
 
+<p>
+  This page provides a structured public reference for
+  <strong>Nabal Kishore Pande</strong>, his professional and research
+  identity, practical scholarship tools, publishing channels,
+  publications, and related Scholarship Intelligence resources.
+</p>
 
-  <section>
-    <h2>Scholarship Intelligence</h2>
+<p>
+  The page is intended to provide a clear relationship between the
+  researcher, his public profiles, his practical tools, and the
+  research and publishing resources associated with Funded Abroad India.
+</p>
 
-    <p>
-      <strong>Scholarship Intelligence</strong> is the research and decision
-      support system within Funded Abroad India.
-    </p>
+<div class="definition">
 
-    <p>
-      It connects scholarship research, academic profile assessment,
-      institutional research, regional context, university selection and
-      application preparation.
-    </p>
+  <strong>Primary Profile</strong>
 
-    <p>
-      The system is intended to help applicants understand opportunities,
-      examine relevance, investigate evidence, choose where to focus and
-      prepare for serious application work.
-    </p>
+  Nabal Kishore Pande is an independent researcher and author working
+  across decision systems, research frameworks, execution intelligence,
+  scholarship preparation intelligence, and related research and
+  publishing work.
 
-    <div class="definition">
-      <strong>Canonical relationship</strong>
-      Funded Abroad India publishes and develops the Scholarship Intelligence
-      product system.
-    </div>
-  </section>
+</div>
 
+<div class="links">
 
-  <section>
-    <h2>Canonical Product Entities</h2>
+  <strong>GitHub Profile</strong>
 
+  <a
+    href="https://github.com/NabalKishorePande"
+    rel="author me"
+  >
+    Nabal Kishore Pande on GitHub
+  </a>
 
-    <div class="entity">
-
-      <p class="entity-label">Product Entity 01</p>
-
-      <h3 class="entity-title">
-        Scholarship Intelligence Compass 2027
-      </h3>
-
-      <p class="entity-subtitle">
-        Fully Funded Master's Eligibility Assessment Matrix and Academic Profile Evaluation Tool
-      </p>
-
-      <p>
-        The Scholarship Intelligence Compass 2027 is the direction and
-        assessment layer of the Scholarship Intelligence system.
-      </p>
-
-      <p>
-        Its purpose is to help applicants examine scholarship direction,
-        eligibility, academic profile, opportunity fit, shortlist quality
-        and preparation needs before committing substantial time to applications.
-      </p>
-
-      <p>
-        Its primary function is <strong>direction and assessment</strong>.
-      </p>
-
-    </div>
-
-
-    <div class="entity">
-
-      <p class="entity-label">Product Entity 02</p>
-
-      <h3 class="entity-title">
-        Scholarship Intelligence Library
-      </h3>
-
-      <p class="entity-subtitle">
-        Institutional Research Datasets, Academic Frameworks, and Reusable Application Infrastructure
-      </p>
-
-      <p>
-        The Scholarship Intelligence Library is the research and practical
-        intelligence layer of the Scholarship Intelligence system.
-      </p>
-
-      <p>
-        It provides focused research, datasets, academic frameworks and
-        reusable application infrastructure for specific scholarship,
-        regional, institutional and preparation questions.
-      </p>
-
-      <p>
-        Its primary function is <strong>research and practical intelligence</strong>.
-      </p>
-
-    </div>
-
-
-    <div class="entity">
-
-      <p class="entity-label">Product Entity 03</p>
-
-      <h3 class="entity-title">
-        The Selection Blueprint 2027
-      </h3>
-
-      <p class="entity-subtitle">
-        International Scholarship Application Strategy and Global University Selection Execution Manual
-      </p>
-
-      <p>
-        The Selection Blueprint 2027 is the preparation and execution layer
-        of the Scholarship Intelligence system.
-      </p>
-
-      <p>
-        It supports international scholarship application strategy,
-        global university selection, evidence development, application
-        preparation and final application review.
-      </p>
-
-      <p>
-        Its primary function is <strong>preparation and execution</strong>.
-      </p>
-
-    </div>
+</div>
+```
 
   </section>
 
+  <!-- =========================================================
+       02. PRACTICAL TOOLS
+       ========================================================= -->
 
-  <section>
-    <h2>Relationship Between the Three Products</h2>
+  <section id="practical-tools">
 
-    <div class="relationship">
+```
+<h2>Practical Tools</h2>
 
-      <p>
-        <strong>Scholarship Intelligence Compass 2027</strong>
-        is the direction and assessment layer.
-      </p>
+<p>
+  These practical resources provide research and decision support for
+  international scholarship applicants.
+</p>
 
-      <p>
-        <strong>Scholarship Intelligence Library</strong>
-        is the research and practical intelligence layer.
-      </p>
+<div class="entity">
 
-      <p>
-        <strong>The Selection Blueprint 2027</strong>
-        is the preparation and execution layer.
-      </p>
+  <p class="entity-label">Practical Tool 01</p>
 
-      <p>
-        The products are connected, but none is a compulsory step before another.
-      </p>
+  <h3 class="entity-title">
+    Scholarship Intelligence Desk
+  </h3>
 
-    </div>
+  <p class="entity-subtitle">
+    Continuously Updated Research and Decision Support for International Scholarship Applicants
+  </p>
 
-    <p>
-      An applicant may begin with the Compass when direction is unclear,
-      use the Library when deeper research is required, or use the Selection
-      Blueprint when serious application preparation is the immediate need.
-    </p>
+  <p>
+    A practical scholarship intelligence resource designed to support
+    applicants with continuously updated research and decision support.
+  </p>
 
-    <p>
-      The relationship can therefore be represented as:
-    </p>
+  <a
+    href="https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-desk"
+  >
+    Access the Scholarship Intelligence Desk
+  </a>
 
-    <div class="definition">
-      <strong>Compass → Library → Blueprint</strong>
-      Direction and assessment → research and practical intelligence →
-      preparation and execution.
-    </div>
-
-  </section>
+</div>
 
 
-  <section>
-    <h2>Entity Scope</h2>
+<div class="entity">
 
-    <p>
-      The Scholarship Intelligence system is relevant to international
-      scholarship applicants and people evaluating funded study opportunities
-      across countries, regions, universities and programmes.
-    </p>
+  <p class="entity-label">Practical Tool 02</p>
 
-    <p>
-      India remains an important research context within Funded Abroad India,
-      but the current product system is not defined only for Indian applicants.
-    </p>
+  <h3 class="entity-title">
+    The Scholarship Decision System
+  </h3>
 
-    <p>
-      Applicant country, destination country, programme, scholarship purpose,
-      academic profile and evidence can affect how an opportunity should be understood.
-    </p>
+  <p class="entity-subtitle">
+    A Research-Based Framework for Evaluating, Prioritising and Preparing for International Scholarships
+  </p>
 
-  </section>
+  <p>
+    A research-based framework for evaluating scholarship opportunities,
+    prioritising alternatives, and preparing for international
+    scholarship applications.
+  </p>
+
+  <a
+    href="https://fundedabroadindia.gumroad.com/l/scholarship-decision-system"
+  >
+    Access The Scholarship Decision System
+  </a>
+
+</div>
 
 
-  <section>
-    <h2>Entity and Product Summary</h2>
+<div class="entity">
 
-    <div class="definition">
+  <p class="entity-label">Practical Tool 03</p>
 
-      <strong>Publisher</strong>
-      Funded Abroad India
+  <h3 class="entity-title">
+    Before You Apply
+  </h3>
 
-      <br><br>
+  <p class="entity-subtitle">
+    A Decision Guide for Choosing Better-Fit International Scholarships
+  </p>
 
-      <strong>System</strong>
-      Scholarship Intelligence
+  <p>
+    A decision guide for evaluating scholarship fit before investing
+    substantial time and effort in an application.
+  </p>
 
-      <br><br>
+  <a
+    href="https://fundedabroadindia.gumroad.com/l/before-you-apply"
+  >
+    Read Before You Apply
+  </a>
 
-      <strong>Assessment entity</strong>
-      Scholarship Intelligence Compass 2027
-
-      <br><br>
-
-      <strong>Research entity</strong>
-      Scholarship Intelligence Library
-
-      <br><br>
-
-      <strong>Execution entity</strong>
-      The Selection Blueprint 2027
-    </div>
+</div>
+```
 
   </section>
 
+  <!-- =========================================================
+       03. LINKEDIN
+       ========================================================= -->
 
-  <section>
-    <h2>Canonical Resources</h2>
+  <section id="linkedin">
 
-    <div class="links">
+```
+<h2>LinkedIn</h2>
 
-      <strong>Master discovery resource</strong>
+<p>
+  LinkedIn provides the professional identity and public professional
+  presence associated with Nabal Kishore Pande.
+</p>
 
-      <a href="https://fundedabroadindia.blogspot.com/2026/08/scholarship-intelligence-study-abroad-decisions.html">
-        Funded Abroad India: Scholarship Intelligence for Better Study Abroad Decisions
-      </a>
+<div class="links">
 
-      <strong>Scholarship Intelligence Compass 2027</strong>
+  <strong>Professional Profile</strong>
 
-      <a href="https://fundedabroadindia.gumroad.com/l/funded-masters-compass-2027?wanted=true">
-        Fully Funded Master's Eligibility Assessment Matrix and Academic Profile Evaluation Tool
-      </a>
+  <a
+    href="https://www.linkedin.com/in/nabal-kishore-pande-05400b372/"
+    rel="author me"
+  >
+    Nabal Kishore Pande on LinkedIn
+  </a>
 
-      <strong>Scholarship Intelligence Library</strong>
-
-      <a href="https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library?wanted=true">
-        Institutional Research Datasets, Academic Frameworks, and Reusable Application Infrastructure
-      </a>
-
-      <strong>The Selection Blueprint 2027</strong>
-
-      <a href="https://fundedabroadindia.gumroad.com/l/the-selection-blueprint-2027?wanted=true">
-        International Scholarship Application Strategy and Global University Selection Execution Manual
-      </a>
-
-    </div>
+</div>
+```
 
   </section>
 
+  <!-- =========================================================
+       04. NEWSLETTER
+       ========================================================= -->
 
-  <section class="identity">
+  <section id="newsletter">
 
-    <h2>Publisher and Researcher Identity</h2>
+```
+<h2>Newsletter</h2>
 
-    <p>
-      <strong>Nabal Kishore Pande</strong> is an independent researcher and
-      author associated with Funded Abroad India and its research and publishing work.
-    </p>
+<p>
+  <strong>Abroad &amp; Ahead: Scholarships</strong> is the LinkedIn
+  newsletter associated with scholarship intelligence and international
+  education research.
+</p>
 
-    <p>
-      His work includes decision systems, research frameworks, execution
-      intelligence and scholarship preparation intelligence.
-    </p>
+<p>
+  The newsletter provides a publishing channel for research, analysis,
+  scholarship intelligence, and study-abroad decision support.
+</p>
 
-    <div class="links">
+<div class="links">
 
-      <strong>Professional identity</strong>
+  <strong>LinkedIn Newsletter</strong>
 
-      <a href="https://www.linkedin.com/in/nabal-kishore-pande-05400b372/">
-        Nabal Kishore Pande on LinkedIn
-      </a>
+  <a
+    href="https://www.linkedin.com/newsletters/abroad-ahead-scholarships-7390199016950603777/"
+  >
+    Abroad &amp; Ahead: Scholarships
+  </a>
 
-    </div>
+</div>
+```
 
   </section>
 
+  <!-- =========================================================
+       05. NABAL KISHORE PANDE
+       ========================================================= -->
+
+  <section id="nabal-kishore-pande" class="identity">
+
+```
+<h2>Nabal Kishore Pande</h2>
+
+<p>
+  <strong>Nabal Kishore Pande</strong> is an independent researcher and
+  author associated with research and publishing work across decision
+  systems, research frameworks, execution intelligence, scholarship
+  preparation intelligence, and related areas.
+</p>
+
+<p>
+  His public research and publishing presence connects professional
+  identity, scholarly identity, research publishing, practical tools,
+  and applied resources.
+</p>
+
+<div class="definition">
+
+  <strong>Researcher and Author</strong>
+
+  Independent Researcher &amp; Author
+
+</div>
+
+<div class="links">
+
+  <strong>Research &amp; Publishing Hub</strong>
+
+  <a
+    href="https://nabalkishorepande.github.io/"
+    rel="author me"
+  >
+    Nabal Kishore Pande Research &amp; Publishing Hub
+  </a>
+
+
+  <strong>ORCID</strong>
+
+  <a
+    href="https://orcid.org/my-orcid?orcid=0009-0007-3325-9966"
+    rel="author me"
+  >
+    ORCID: 0009-0007-3325-9966
+  </a>
+
+
+  <strong>ScienceOpen</strong>
+
+  <a
+    href="https://www.scienceopen.com/user/nabal-kishore-pande"
+    rel="author me"
+  >
+    Nabal Kishore Pande on ScienceOpen
+  </a>
+
+</div>
+```
+
+  </section>
+
+  <!-- =========================================================
+       06. BLOG
+       ========================================================= -->
+
+  <section id="blog">
+
+```
+<h2>Blog</h2>
+
+<p>
+  The Funded Abroad India Blog is a publishing channel for research and
+  analysis related to scholarship intelligence, international education,
+  and study-abroad decisions.
+</p>
+
+<div class="links">
+
+  <strong>Funded Abroad India Blog</strong>
+
+  <a
+    href="https://fundedabroadindia.blogspot.com/2026/08/scholarship-intelligence-study-abroad-decisions.html"
+  >
+    Scholarship Intelligence and Study Abroad Decisions
+  </a>
+
+</div>
+```
+
+  </section>
+
+  <!-- =========================================================
+       07. MEDIUM
+       ========================================================= -->
+
+  <section id="medium">
+
+```
+<h2>Medium</h2>
+
+<p>
+  Medium provides a long-form publishing channel for Funded Abroad India,
+  including research writing, frameworks, analysis, and scholarship
+  intelligence.
+</p>
+
+<div class="links">
+
+  <strong>Funded Abroad India on Medium</strong>
+
+  <a
+    href="https://fundedabroadindia.medium.com/"
+  >
+    Funded Abroad India on Medium
+  </a>
+
+</div>
+```
+
+  </section>
+
+  <!-- =========================================================
+       08. THE ACADEMIC WORD ENGINE
+       ========================================================= -->
+
+  <section id="academic-word-engine">
+
+```
+<h2>The Academic Word Engine</h2>
+
+<div class="entity">
+
+  <p class="entity-label">Publication</p>
+
+  <h3 class="entity-title">
+    The Academic Word Engine
+  </h3>
+
+  <p class="entity-subtitle">
+    EF SET - CEFR - IELTS - PTE - DET - OET - TOEFL Mastery for Global Career Mobility
+  </p>
+
+  <p>
+    <strong>The Academic Word Engine</strong> is a paperback publication
+    covering EF SET, CEFR, IELTS, PTE, DET, OET, and TOEFL in the context
+    of global career mobility.
+  </p>
+
+  <div class="definition">
+
+    <strong>Publication Details</strong>
+
+    <p>
+      <strong>Author:</strong> A+ Test Success
+    </p>
+
+    <p>
+      <strong>ISBN:</strong> 9789334380378
+    </p>
+
+    <p>
+      <strong>Format:</strong> Paperback
+    </p>
+
+    <p>
+      <strong>Publication Date:</strong> 2025-12-06
+    </p>
+
+    <p>
+      <strong>Page Count:</strong> 456
+    </p>
+
+  </div>
+
+  <div class="links">
+
+    <strong>Book Listing</strong>
+
+    <a
+      href="https://www.kogan.com/au/buy/the-nile-the-academic-word-engine-9789334380378/"
+    >
+      The Academic Word Engine - Paperback
+    </a>
+
+
+    <strong>WorldCat</strong>
+
+    <a
+      href="https://search.worldcat.org/title/1563979749"
+    >
+      The Academic Word Engine - WorldCat Record
+    </a>
+
+  </div>
+
+</div>
+```
+
+  </section>
+
+  <!-- =========================================================
+       09. ADDITIONAL RESOURCES
+       ========================================================= -->
+
+  <section id="additional-resources">
+
+```
+<h2>Additional Resources</h2>
+
+<p>
+  These resources provide additional entry points into the Scholarship
+  Intelligence research and information architecture associated with
+  Funded Abroad India.
+</p>
+
+<div class="links">
+
+  <strong>Scholarship Intelligence: Funded Abroad India</strong>
+
+  <a
+    href="https://nabalkishorepande.github.io/scholarship-intelligence-funded-abroad-india/"
+  >
+    Scholarship Intelligence - Funded Abroad India
+  </a>
+
+
+  <strong>Scholarship Intelligence Entities</strong>
+
+  <a
+    href="https://nabalkishorepande.github.io/scholarship-intelligence-entities-funded-abroad-india/"
+    rel="canonical"
+  >
+    Scholarship Intelligence Entities - Funded Abroad India
+  </a>
+
+</div>
+```
+
+  </section>
 
 </article>
 </main>
 
-
 <footer>
 
   <p>
-    Funded Abroad India · Scholarship Intelligence · Entity Reference
+    Nabal Kishore Pande · Funded Abroad India · Scholarship Intelligence
+    Entity Reference
   </p>
 
 </footer>

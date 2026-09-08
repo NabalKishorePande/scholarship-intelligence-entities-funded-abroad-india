@@ -319,7 +319,7 @@ content="Entity reference for Nabal Kishore Pande, his professional profile, pra
   <a
     href="https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-desk"
   >
-    Access the Scholarship Intelligence Desk
+    Access the Scholarship Intelligence Desk.
   </a>
 
 </div>
